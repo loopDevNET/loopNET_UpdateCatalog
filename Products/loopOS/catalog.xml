@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoftwareUpdateProductCatalog>
+	<CatalogMeta version="1.0">
+		<key>ProductIdentifier</key>
+		<string>loopOS</string>
+		<key>CatalogType</key>
+		<string>SoftwareUpdate</string>
+		<key>ProductCatalogUUID</key>
+		<uuid>F5E0ABE8-9F34-4AEF-B7F9-2496FE738A80</uuid>
+		<key>ProductProvider</key>
+		<string>loopNET Development Group</string>
+    <key>LatestCatalogTimestamp</key>
+    <timestamp>20211103214900</timestamp>
+	</CatalogMeta>
+	<PackageList>
+		<package>
+			<key>PackageIdentifier</key>
+			<string>loopOS_SoftwareUpdate_Channel_INDEV</string>
+			<key>PackageUUID</key>
+			<uuid>EC180A52-4F1C-436D-A24F-A0431153E8EF</uuid>
+			<key>PackageUIName</key>
+			<string>loopOS In-Development Build</string>
+			<key>PackageUpdateChannelIdentifier</key>
+			<string>indev</string>
+			<key>PackageUpdateChannelUUID</key>
+			<string>C5FCFF01-17CE-4919-8556-04CB2BADD51C</string>
+			<key>PackageLocationType</key>
+			<string>External</string>
+			<key>PackageLocationURL</key>
+			<string>https://hidrive.ionos.com/api/sharelink/download?id=6XgACSyk</string>
+            <key>PackageSUILocationType</key>
+            <string>External</string>
+            <key>PackageSUILocation</key>
+            <string>https://raw.githubusercontent.com/loopDevNET/loopNET_UpdateCatalog/main/Products/loopOS/EC180A52-4F1C-436D-A24F-A0431153E8EF.xml?token=APSG2UV7SB4K4SXT3NGWZZTBQL2TQ</string>
+		</package>
+		<package>
+			<key>PackageIdentifier</key>
+			<string>loopOS_SoftwareUpdate_Channel_TEST</string>
+			<key>PackageUUID</key>
+			<uuid>138C2776-3A5B-4AFF-816F-B8291CD257F8</uuid>
+			<key>PackageUIName</key>
+			<string>loopOS TEST SoftwareUpdate</string>
+			<key>PackageUpdateChannelIdentifier</key>
+			<string>test</string>
+			<key>PackageUpdateChannelUUID</key>
+			<string>FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF</string>
+			<key>PackageLocationType</key>
+			<string>External</string>
+			<key>PackageLocationURL</key>
+			<string>https://hidrive.ionos.com/api/sharelink/download?id=6XgACSyk</string>
+		</package>
+	</PackageList>
+</SoftwareUpdateProductCatalog>
