@@ -28,10 +28,10 @@
 			<string>External</string>
 			<key>PackageLocationURL</key>
 			<string>https://hidrive.ionos.com/api/sharelink/download?id=6XgACSyk</string>
-            <key>PackageSUILocationType</key>
-            <string>External</string>
-            <key>PackageSUILocation</key>
-            <string>https://raw.githubusercontent.com/loopDevNET/loopNET_UpdateCatalog/main/Products/loopOS/EC180A52-4F1C-436D-A24F-A0431153E8EF.xml?token=APSG2UV7SB4K4SXT3NGWZZTBQL2TQ</string>
+            		<key>PackageSUILocationType</key>
+           		<string>External</string>
+           		<key>PackageSUILocation</key>
+           		<string>https://raw.githubusercontent.com/loopDevNET/loopNET_UpdateCatalog/main/Products/loopOS/EC180A52-4F1C-436D-A24F-A0431153E8EF.xml</string>
 		</package>
 		<package>
 			<key>PackageIdentifier</key>
