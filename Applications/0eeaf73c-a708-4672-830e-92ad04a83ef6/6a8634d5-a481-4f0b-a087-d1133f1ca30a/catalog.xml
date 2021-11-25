@@ -27,7 +27,7 @@
 			<key>PackageLocationType</key>
 			<string>External</string>
 			<key>PackageLocationURL</key>
-			<string>https://hidrive.ionos.com/api/sharelink/download?id=6XgACSyk</string>
+			<string>null</string>
       <key>PackageSUILocationType</key>
       <string>External</string>
       <key>PackageSUILocation</key>
