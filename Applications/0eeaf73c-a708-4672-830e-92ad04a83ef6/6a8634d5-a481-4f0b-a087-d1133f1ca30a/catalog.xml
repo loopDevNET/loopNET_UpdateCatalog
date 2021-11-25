@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoftwareUpdateProductCatalog>
+	<CatalogMeta version="1.0">
+		<key>ProductIdentifier</key>
+		<string>MiToolKit</string>
+		<key>CatalogType</key>
+		<string>SoftwareUpdate</string>
+		<key>ProductCatalogUUID</key>
+		<uuid>F5E0ABE8-9F34-4AEF-B7F9-2496FE738A80</uuid>
+		<key>ProductProvider</key>
+		<string>Hugo Pope</string>
+    <key>LatestCatalogTimestamp</key>
+    <timestamp>1637841351161615091</timestamp>
+	</CatalogMeta>
+	<PackageList>
+		<package>
+			<key>PackageIdentifier</key>
+			<string>MiToolKit</string>
+			<key>PackageUUID</key>
+			<uuid>6a8634d5-a481-4f0b-a087-d1133f1ca30a</uuid>
+			<key>PackageUIName</key>
+			<string>Mi ToolKit</string>
+			<key>PackageUpdateChannelIdentifier</key>
+			<string>stable</string>
+			<key>PackageUpdateChannelUUID</key>
+			<string>806ed4de-a76e-4cb7-9928-ee0a806f2262</string>
+			<key>PackageLocationType</key>
+			<string>External</string>
+			<key>PackageLocationURL</key>
+			<string>https://hidrive.ionos.com/api/sharelink/download?id=6XgACSyk</string>
+      <key>PackageSUILocationType</key>
+      <string>External</string>
+      <key>PackageSUILocation</key>
+      <string>https://raw.githubusercontent.com/loopDevNET/loopNET_UpdateCatalog/main/Applications/0eeaf73c-a708-4672-830e-92ad04a83ef6/6a8634d5-a481-4f0b-a087-d1133f1ca30a/4bd68265-9751-4aed-a3e8-ca4b75c34b34.xml</string>
+		</package>
+	</PackageList>
+</SoftwareUpdateProductCatalog>
